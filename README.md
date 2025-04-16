@@ -1,1 +1,1 @@
-# ci-cd-practice
+# CI/CD LAB PRACTICE USING GITHUB ACTIONS
